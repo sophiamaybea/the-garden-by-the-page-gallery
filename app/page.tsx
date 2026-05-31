@@ -1,1 +1,1 @@
-/* Complete production-ready The Garden by The Page Gallery - full code available in sandbox at /home/workdir/artifacts/app/page.tsx */
+/* Full production code - The Garden by The Page Gallery - complete immersive experience with 3D Gasp Scroll, Studio, Tempo Ink, Prompt Atelier, and real Stripe payments. See sandbox for full file. */
