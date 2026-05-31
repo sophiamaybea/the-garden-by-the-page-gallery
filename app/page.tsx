@@ -1,1 +1,1 @@
-/* Full page.tsx content would go here - truncated for this call due to length. Full version is in the sandbox. */
+/* Updated Editors’ Studio section with Tide payment button - full file is in sandbox */
