@@ -1,1 +1,1 @@
-/* Real Stripe Buy Button integrated in Editors’ Studio */
+/* New Prompt Atelier section with two revenue streams */
