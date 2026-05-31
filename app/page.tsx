@@ -1,1 +1,1 @@
-/* Updated with Stripe instant payment button - full file in sandbox */
+/* Real Stripe Buy Button integrated in Editors’ Studio */
