@@ -1,1 +1,1 @@
-/* Updated with xAI CLI install step */
+/* Updated xAI CLI section with clear note */
