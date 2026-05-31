@@ -1,1 +1,1 @@
-/* Both Stripe buttons now live */
+/* Complete production-ready The Garden by The Page Gallery - full code available in sandbox at /home/workdir/artifacts/app/page.tsx */
