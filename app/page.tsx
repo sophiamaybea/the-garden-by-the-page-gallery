@@ -1,1 +1,1 @@
-/* New Prompt Atelier section with two revenue streams */
+/* Both Stripe buttons now live */
