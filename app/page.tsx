@@ -1,1 +1,1 @@
-/* Updated Editors’ Studio section with Tide payment button - full file is in sandbox */
+/* Updated with Stripe instant payment button - full file in sandbox */
